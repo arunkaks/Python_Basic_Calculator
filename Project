@@ -1,0 +1,47 @@
+# Scientific Calculator
+# time line : 2 weeks
+# Scope : Backend
+# 3 * 2 * 5 = 30 hours (5 hours) : 25 hours
+
+# Fucntionalities
+    Penchal:
+        add
+        subract
+        multiply
+    Arun:
+        division
+        modulus - > reminder
+
+    Arun:
+        sin
+        cos
+        tan
+
+    Penchal :
+        Square root
+        Power
+        Percentage
+
+    # If time permits
+    Arun :
+        Simple intrest calculator
+        Compound intrest calculator
+
+    Penchal:
+        EMI calculator
+
+    # unknowns : 5
+    Areas and perimeter calculations
+
+    Main
+
+- Math.py
+- Trig.py
+- Geometry.py
+- Money.py
+
+- Main.py
+
+
+
+
